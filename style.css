@@ -1,0 +1,63 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+background:#19252b;
+color:white;
+}
+
+.Menu{
+position:fixed;
+top:0;
+width:100%;
+padding:20px;
+background:#111;
+}
+
+.Menu nav a{
+color:white;
+margin-right:20px;
+text-decoration:none;
+}
+
+.Container{
+padding-top:80px;
+width:80%;
+margin:auto;
+}
+
+section{
+margin:100px 0;
+}
+
+.Title h1{
+font-size:60px;
+}
+
+.Title h2{
+color:lightgray;
+}
+
+.Work ul{
+list-style:none;
+margin-top:20px;
+}
+
+.Work li{
+margin-bottom:20px;
+}
+
+.subtitle{
+display:block;
+color:gray;
+}
+
+footer{
+background:#111;
+padding:20px;
+text-align:center;
+}
